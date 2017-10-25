@@ -1,0 +1,16 @@
+body {
+		background-color: darkseagreen;
+}
+h4 {
+	color:darkblue;
+ 
+}
+h5 {
+	color:black;
+}
+.bolder{
+		font-weight: bolder;
+}
+.bold{
+		font-weight:bold;
+}
